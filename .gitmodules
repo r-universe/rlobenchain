@@ -8,6 +8,3 @@
 [submodule "NU.Learning"]
 	path = NU.Learning
 	url = https://github.com/cran/NU.Learning
-[submodule "RXshrink"]
-	path = RXshrink
-	url = https://github.com/cran/RXshrink
