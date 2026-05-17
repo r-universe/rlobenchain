@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ICEinfer"]
-	path = ICEinfer
-	url = https://github.com/cran/ICEinfer
 [submodule "NU.Learning"]
 	path = NU.Learning
 	url = https://github.com/cran/NU.Learning
